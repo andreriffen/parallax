@@ -6,7 +6,7 @@ Demonstra o uso de '*escutador de eventos*' (*Event Listener*) no movimento do m
 
 ## 🕹️ Demo
 
-![img](link)
+![DEMO](https://github.com/andreriffen/parallax/blob/d11c8f97371f5153b101522b6fd7b739d34965ad/parallax.gif)
 
 ### ☕ Autor
 
